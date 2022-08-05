@@ -9,7 +9,7 @@ LadyBudyy addresses the most devastating problem of human civilization till date
 LadyBuddy is available on the Huawei App Store.
 
 <p align="left">
-<a href="https://l.instagram.com/?u=https%3A%2F%2Fappgallery.huawei.com%2Fapp%2FC105254837&e=ATNqEa_IMzTtvHhD9zB0iXx5t0AG91LPHnPXvkxTw_ZE3KDXSlOwoHfiNMIqUYXv2U2NRSL-mzEcsqGCfl1OJA&s=1">
+<a href="https://appgallery.huawei.com/app/C105254837">
     <img alt="Get it on huawei app store"
         height="80"
         src="https://th.bing.com/th/id/OIP.b3Brc966P-cJ3yZXirhB5gHaEK?w=257&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
