@@ -10,9 +10,9 @@ LadyBuddy is available on the Google Play Store.
 
 <p align="left">
 <a href="https://l.instagram.com/?u=https%3A%2F%2Fappgallery.huawei.com%2Fapp%2FC105254837&e=ATNqEa_IMzTtvHhD9zB0iXx5t0AG91LPHnPXvkxTw_ZE3KDXSlOwoHfiNMIqUYXv2U2NRSL-mzEcsqGCfl1OJA&s=1">
-    <img alt="Get it on Google Play"
+    <img alt="Get it on huawei app store"
         height="80"
-        src="https://drive.google.com/file/d/1t9Mq-6Aq8KxgbHbui0_9wE4-sqm254E1/view?usp=sharing" />
+        src="https://th.bing.com/th/id/OIP.b3Brc966P-cJ3yZXirhB5gHaEK?w=257&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
        </a>  
        </p>
 
