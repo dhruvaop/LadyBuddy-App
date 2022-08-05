@@ -9,10 +9,10 @@ LadyBudyy addresses the most devastating problem of human civilization till date
 LadyBuddy is available on the Google Play Store.
 
 <p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.teamDroiders.ladybuddy">
+<a href="https://l.instagram.com/?u=https%3A%2F%2Fappgallery.huawei.com%2Fapp%2FC105254837&e=ATNqEa_IMzTtvHhD9zB0iXx5t0AG91LPHnPXvkxTw_ZE3KDXSlOwoHfiNMIqUYXv2U2NRSL-mzEcsqGCfl1OJA&s=1">
     <img alt="Get it on Google Play"
         height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+        src="https://drive.google.com/file/d/1t9Mq-6Aq8KxgbHbui0_9wE4-sqm254E1/view?usp=sharing" />
        </a>  
        </p>
 
