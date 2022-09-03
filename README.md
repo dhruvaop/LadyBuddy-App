@@ -116,5 +116,12 @@ Android Components Used:
 
 For support, email dhruvabhattacharya130102@gmail.com or join our Slack channel.
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
 Author
 @dhruvaop
