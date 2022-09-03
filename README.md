@@ -59,7 +59,7 @@ The android app lets you:
 
 7.Share app then they can share and save lives.
 
-## Technologies, Libraries and Components Used
+## Technologies, Libraries and Components Used 🚀 
 Technologies and Libraries used:
 - Java 
 - XML
