@@ -76,6 +76,9 @@ Technologies and Libraries used:
 - News Api 
 - Airbnb’s Lottie animations 
 
+## Installation
+
+<a href="https://appgallery.huawei.com/app/C105254837">Download</a>
 
 Android Components Used:
 - RecyclerView
