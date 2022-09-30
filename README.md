@@ -1,4 +1,4 @@
-# LadyBuddy- A Complete women safety app with Emergency SOS Service and Hidden camera detection
+# LadyBuddy- A Complete women safety app with Emergency SOS Service and Hidden camera detection.
 
 
 <img src="https://user-images.githubusercontent.com/57634381/131633790-5c6a360e-738b-4a15-81d9-d0e7c8205794.png" align="left"
