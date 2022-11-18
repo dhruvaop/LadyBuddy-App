@@ -25,9 +25,9 @@ public class AboutUs extends AppCompatActivity {
     }
     public void composeEmail() {
         String subject="Contacting for LadyBuddy";
-        String mailto = "mailto:moheeeetgupta@gmail.com" +
-                "?cc="+"sakshigupta82401@gmail.com"+
-                "&bcc="+"shivanikumari6109@gmail.com"+
+        String mailto = "mailto:dhruvabhattacharya130102@gmail.com" +
+                "?cc="+"dhruva.bhattacharya.csai.20@ggits.net"+
+                "&bcc="+""+
                 "&subject=" + Uri.encode(subject);
 
 
