@@ -15,8 +15,9 @@ LadyBuddy is available on the Huawei App Store.
         src="https://th.bing.com/th/id/OIP.b3Brc966P-cJ3yZXirhB5gHaEK?w=257&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
        </a>  
        </p>
-
+<p align="left">
 [![Lady Buddy](https://img.youtube.com/vi/FY8A4Y-CIAA/0.jpg)](https://www.youtube.com/watch?v=FY8A4Y-CIAA)
+    </p>
        
 ## Description
 It is a complete women safety app where a girl or women has to save the phone numbers of her relatives, and whenever she is in trouble ,she can tap the power button three times and then an emergency message with live location of her is sent to her relatives and a phone call is also made to her first relative even when the phone is locked, no need to unlock the phone and open the app. If she is in more trouble and wants to deviate the culprit then she can tap the power button 3 more times to start a siren alarm.
