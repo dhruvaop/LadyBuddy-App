@@ -17,6 +17,9 @@ LadyBuddy is available on the Huawei App Store.
        </p>
 
 [![Lady Buddy](https://img.youtube.com/vi/FY8A4Y-CIAA/0.jpg)](https://www.youtube.com/watch?v=FY8A4Y-CIAA)
+
+## Problem Statement
+Design and develop a Women safety app that automatically senses the danger to a mobile user and triggers an SOS alert with location details based on multimodal data from a mobile device such as audio, video, image, motion detection etc., given a situation that the user is not able to operate the mobile.
        
 ## Description
 It is a complete women safety app where a girl or women has to save the phone numbers of her relatives, and whenever she is in trouble ,she can tap the power button three times and then an emergency message with live location of her is sent to her relatives and a phone call is also made to her first relative even when the phone is locked, no need to unlock the phone and open the app. If she is in more trouble and wants to deviate the culprit then she can tap the power button 3 more times to start a siren alarm.
