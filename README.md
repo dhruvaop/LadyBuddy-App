@@ -130,4 +130,4 @@ For support, email dhruvabhattacharya130102@gmail.com or join our Slack channel.
 
 
 Author
-@dhruvaop
+<a href="https://www.github.com/dhruvaop">Dhruva Bhattacharya</a>
